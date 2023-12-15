@@ -91,11 +91,11 @@ function Intro() {
 
         <SectionHeading>About me</SectionHeading>
         <p className="mb-3 font-light">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi voluptatum ipsam esse quod, animi voluptatem! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Hello! I&apos;m a frontend developer based in Austin, TX. Bringing designs to life, ensuring user-friendly and responsive interfaces across devices. With a passion for crafting elegant websites that seamlessly blend functionality and aesthetics.
         </p>
         <p className='font-light'>
-            Explicabo aliquid quo labore atque similique recusandae magni autem voluptatem, dignissimos doloribus earum quos consectetur beatae architecto, ratione, totam praesentium? Corrupti, illo?
-        </p>
+        Outside of coding, I enjoy playing video games, watching movies, listening to history podcast and continuously learning to refine my skills. Let&apos;s collaborate and bring your digital vision to life!
+        </p>        
         </motion.section>
     </section>
   )
